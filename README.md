@@ -2,9 +2,10 @@
 
 **AUTHOR**: Luis Bahamonde Jacome
 
+This repository hosts latex source files of a Spanish translation of the DIC Good Practices Guide, Edition 2. See here for the original guide in English: https://idics.org/guide/GPG_Ed2_251104.pdf
+
 **LATEST RELEASE**: https://github.com/lbahamonde/dic_gpg_ed2_spanish/releases/latest/download/main.pdf
 
-This repository hosts latex source files of a Spanish translation of the DIC Good Practices Guide, Edition 2. See here for the original guide in English: https://idics.org/guide/GPG_Ed2_251104.pdf
 
 ## Principles
 

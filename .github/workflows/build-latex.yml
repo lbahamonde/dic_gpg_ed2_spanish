@@ -17,7 +17,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: main.tex
+          root_file: src/main.tex
 
       - name: Publish PDF to GitHub Release
         uses: softprops/action-gh-release@v2

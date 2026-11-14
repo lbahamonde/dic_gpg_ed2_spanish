@@ -2,14 +2,18 @@
 
 **AUTHOR**: Luis Bahamonde Jacome
 
-This repository hosts latex source files of a Spanish translation of the DIC Good Practices Guide, Edition 2. See here for the original guide in English: https://idics.org/guide/GPG_Ed2_251104.pdf
+This repository hosts latex source files of a Spanish translation of the DIC Good Practices Guide, Edition 2. See here for the original guide in English:
 
-**LATEST RELEASE**: https://github.com/lbahamonde/dic_gpg_ed2_spanish/releases/latest/download/main.pdf
+International Digital Image Correlation Society, Jones, E.M.C and Iadicola, M.A. (Eds.) (2025). _A Good Practices Guide for Digital Image Correlation_, Edition 2. https://doi.org/10.32720/idics/gpg.ed2
+
+
+
+**SPANISH LATEST RELEASE**: https://github.com/lbahamonde/dic_gpg_ed2_spanish/releases/latest/download/main.pdf
 
 
 ## Principles
 
-Translation of a technical monograph is not straightforward. Technical terms do not always have a one-to-one translation. Analogies and metaphors do not translate well either. The question of using loanwords, and how many is too many, is also a controversial topic. Which is why I'm writing down a list of principles that I used for this translation. The hope is that future contributers can use it as a guideline.
+Translation of a technical monograph is not straightforward. Technical terms do not always have a one-to-one translation. Analogies and metaphors do not translate well either. The question of using loanwords, and how many is too many, is also a controversial topic. Which is why I'm writing down a list of principles that I used for this translation. The hope is that future contributors can use it as a guideline.
 
 
 - English **acronyms** are retained. However, an explanation in Spanish should follow in the same acronym definition.

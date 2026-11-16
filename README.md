@@ -1,4 +1,4 @@
-# DIC Good Practices Guide Edition 2 -- Spanish
+# Spanish Translation of DIC Good Practices Guide, Edition 2
 
 **AUTHOR**: Luis Bahamonde Jacome
 
@@ -8,7 +8,7 @@ International Digital Image Correlation Society, Jones, E.M.C and Iadicola, M.A.
 
 
 
-**SPANISH LATEST RELEASE**: https://github.com/lbahamonde/dic_gpg_ed2_spanish/releases/latest/download/main.pdf
+**SPANISH LATEST DRAFT**: https://github.com/lbahamonde/dic_gpg_ed2_spanish/releases/latest/download/main.pdf
 
 
 ## Principles
